@@ -3,7 +3,9 @@ Module 2 Challenge
 ## Overview of Project
 This project is designed to refactor VBA code of Stock Analysis which we made according to module 2 learning and also measure its performance.
 ## Results
-The refactored code runs faster than the original one, which shows us the necessity to simplify the steps, reduce the used memory and improve the logic.
+The refactored code runs faster than the original one, which shows us the necessity to simplify the steps, reduce the used memory and improve the logic. See the instance of Stock Analysis of year 2017:
+The original code takes 0.68s to run but the refactor only takes ![VBA_original_2017](https://github.com/JosephineYang228/stock-analysis/blob/c4a4d8a0a43c33272f270c3b3df759496186b334/VBA%20_original_2017.png)
+[VBA_refactor_2017](https://github.com/JosephineYang228/stock-analysis/blob/c4a4d8a0a43c33272f270c3b3df759496186b334/Resources/VBA_Challenge_2017.png)
 ## Summary
 ### Advantages of refactoring: 
 Machine will take less time to run the code and the user could work more effiently to get the result.
